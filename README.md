@@ -1,5 +1,5 @@
 # Aceleração Qa Dio
-Projeto prático de testeste manuais funciobais para aceleração de qa da dio.
+Projeto prático de testes manuais funcionais para aceleração de qa da dio.
 
 # Documentação anexada
 
